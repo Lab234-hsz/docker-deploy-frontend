@@ -36,7 +36,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: 20001215/234-deploylab-newsfrontend:latest
+          tags: 13819773795/234-deploylab-nfrontend:latest
       -
         name: prepare the docker-compose run
         run: |
